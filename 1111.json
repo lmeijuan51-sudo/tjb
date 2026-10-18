@@ -1,0 +1,113 @@
+{
+  "activity": {
+    "tip": "点击开始任务自动运行\n微信：txhhxt9013\n",
+    "mapping": {
+      "❤️开始1111任务❤️": {
+        "type": "task",
+        "key": [
+          "赚话费"
+        ]
+      },
+      "双十一作业就找葡萄🍇 txhhxt9013": {
+        "url": "weixin://"
+      }
+    },
+    "vvv": 1,
+    "list": [
+      "❤️开始1111任务❤️",
+      "双十一作业就找葡萄🍇 txhhxt9013"
+    ],
+    "taskList": [
+      "赚话费"
+    ]
+  },
+  "taskData": {
+    "tag": "zhuanhuafei",
+    "common": {
+      "url": "https://raw.githubusercontent.com/lmeijuan51-sudo/tjb/main/tb.txt"
+    },
+    "赚话费": {
+      "endMessage": "种树任务结束",
+      "main": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+      "task": {
+        "scheme": "taobao://m.taobao.com/tbopen/index.html?h5Url=",
+        "before": [],
+        "wait": 15,
+        "tag": "zhuanhuafei",
+        "baseurl": "://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=占位参数1&sceneId=8917&q=iphone",
+        "param": {
+          "商品定位": [
+            "nike",
+            "anta",
+            "adidas",
+            "chanel",
+            "dior",
+            "biotherm",
+            "oppo"
+          ]
+        },
+        "wait2": "",
+        "item": [
+          "100340",
+          "100340",
+          "100340",
+          "100340",
+          "100340",
+          "100340",
+          "100340",
+          "100340",
+          "100340",
+          "100340",
+          "100453",
+          "100453",
+          "100453",
+          "100453",
+          "100453",
+          "100453",
+          "100453",
+          "100453",
+          "100453",
+          "100453",
+          "100492",
+          "100492",
+          "100492",
+          "100492",
+          "100492",
+          "100492",
+          "100492",
+          "100492",
+          "100492",
+          "100492",
+          "107016",
+          "107016",
+          "107016",
+          "107016",
+          "107016",
+          "100531",
+          "99673",
+          "106363",
+          "99889",
+          "106588",
+          "101866",
+          "107544",
+          "99672",
+          "100454",
+          "100454",
+          "100454",
+          "100454",
+          "100454",
+          "106513",
+          "106513",
+          "106513",
+          "106513",
+          "106513",
+          "106595",
+          "99720",
+          "90782"
+        ],
+        "type": "task1",
+        "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com"
+      }
+    }
+  }
+}
